@@ -1,3 +1,4 @@
 trainning repo
+<<<<<<< HEAD
 edição numero 1
-edição numero 2
+>>>>>>> parent of 18fff72 (primeira edição)
